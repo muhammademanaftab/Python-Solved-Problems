@@ -1,0 +1,21 @@
+1. Write a program to print integers 1 to 100 divisible by 3
+2. Write a program to print integers 1 to 100 divisible by 3 & 5
+3. Write a program to print integers 1 to 100 divisible by 3 & 5 but not by both. The output will be:
+3 5 6 9 10 12 18 20 21 24 25 27 33 ...
+4. Write a program to input two integers say n1 & n2. Print integers from n1 to n2 or n2 to n1 (provided n1 is smaller or n2 is smaller). Calculate and print their sum as well.
+5. Write a program to print integers 1 to 100. Write 5 integers in a line. Like:
+1 2 3 4 5
+6 7 8 9 10
+11 12 13 14 15
+
+6. Write a program to print capital alphabets. Write vowels in a single line. Like:
+A
+B C D
+E
+F G H
+I
+J K L M N
+O
+P Q R S T
+U
+V W X Y Z

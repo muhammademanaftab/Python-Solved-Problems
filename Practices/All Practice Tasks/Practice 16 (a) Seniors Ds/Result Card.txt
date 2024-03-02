@@ -1,0 +1,16 @@
+A
+b
+
+Subject		Total Marks	Obtained Marks
+
+Physics		100		2
+
+Chemistry	100		3
+
+Biology		100		4
+
+English		100		5
+
+Urdu		100		6
+
+		500		20

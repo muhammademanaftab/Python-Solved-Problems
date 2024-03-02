@@ -1,0 +1,7 @@
+x = int ( input ('Enter First Value:') )
+y = int ( input ('Enter Second Value:') )
+print('Sum:', x + y)
+print('Difference:', x - y)
+print('Product:', x * y)
+print('Remainder:', x % y)
+print('x power y:', x ** y)

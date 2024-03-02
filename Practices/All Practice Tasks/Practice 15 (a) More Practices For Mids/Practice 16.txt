@@ -1,0 +1,25 @@
+1. Input ten elements and Find second smallest element?
+2. Initialize five elements randomly with 0 or 1. Count how many of them are zero and how many are one.
+3. Initialize five elements randomly with 0, 1 or 2. Check and print which one of them have same value. Like:
+First and fourth are same
+Third and fifth are same
+4. Input five elements and print difference of each element with every other element.
+Element 1 23
+Elements 2 15
+Element 3: 29
+Element 4: 10
+Element 5: 40
+Difference of Element 1: 8 6 13 17
+Difference of Element 2: 8, 14 5 25
+Difference of Element 3: 6 14 19 11
+Difference of Element 4: 13 5 19 30
+Difference of Element 5: 17 25 11 30
+5. Input an integer. Run a loop from 2 to the integer, check and print numbers completely divides the input integer.
+Input: 24
+24 is divisible by 2
+24 is divisible by 3
+24 is divisible by 4
+24 is divisible by 6
+24 is divisible by 8
+24 is divisible by 12
+24 is divisible by 24

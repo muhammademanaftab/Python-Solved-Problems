@@ -1,0 +1,7 @@
+x=int(input('Enter Number:  '))
+AI=-(x)
+S=(x**2)
+C=(x**3)
+print ('Additive Inverse:  ',AI)
+print ('Square:  ',S)
+print ('Cube:  ',C)
